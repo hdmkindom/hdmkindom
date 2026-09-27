@@ -63,44 +63,56 @@
 
 ## 🗂️ Featured Projects
 
-<p align="center">
-  <a href="https://github.com/hdmkindom/tracker_plus">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=hdmkindom&repo=tracker_plus&hide_border=true&theme=transparent" alt="tracker_plus" />
-  </a>
-  <a href="https://github.com/hdmkindom/ATP">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=hdmkindom&repo=ATP&hide_border=true&theme=transparent" alt="ATP" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/hdmkindom/tracker_plus">🤖 tracker_plus</a></h3>
+      <p>RoboMaster 自瞄视觉系统：目标检测、PnP、EKF、弹道补偿、延迟测量与 ROS2 工程集成。</p>
+      <p>
+        <img src="https://img.shields.io/github/languages/top/hdmkindom/tracker_plus?style=flat-square&label=language" alt="Top language" />
+        <img src="https://img.shields.io/github/stars/hdmkindom/tracker_plus?style=flat-square&label=stars" alt="Stars" />
+        <img src="https://img.shields.io/github/last-commit/hdmkindom/tracker_plus?style=flat-square&label=updated" alt="Last commit" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/hdmkindom/ATP">🧠 ATP</a></h3>
+      <p>面向 <code>ax-prover</code> 的自动定理证明实验框架，支持批量运行、环境检查、结果归档与报告。</p>
+      <p>
+        <img src="https://img.shields.io/github/languages/top/hdmkindom/ATP?style=flat-square&label=language" alt="Top language" />
+        <img src="https://img.shields.io/github/stars/hdmkindom/ATP?style=flat-square&label=stars" alt="Stars" />
+        <img src="https://img.shields.io/github/last-commit/hdmkindom/ATP?style=flat-square&label=updated" alt="Last commit" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/hdmkindom/mathmatic_in_elementary_number_th">∑ Elementary Number Theory in Lean</a></h3>
+      <p>使用 Lean 4 与 Mathlib 整理初等数论中的定义、命题和形式化证明。</p>
+      <p>
+        <img src="https://img.shields.io/github/languages/top/hdmkindom/mathmatic_in_elementary_number_th?style=flat-square&label=language" alt="Top language" />
+        <img src="https://img.shields.io/github/stars/hdmkindom/mathmatic_in_elementary_number_th?style=flat-square&label=stars" alt="Stars" />
+        <img src="https://img.shields.io/github/last-commit/hdmkindom/mathmatic_in_elementary_number_th?style=flat-square&label=updated" alt="Last commit" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/hdmkindom/aimlab_autoaim">🎯 aimlab_autoaim</a></h3>
+      <p>基于 Python 和 OpenCV 的实时视觉靶标检测、目标中心计算与选择实验。</p>
+      <p>
+        <img src="https://img.shields.io/github/languages/top/hdmkindom/aimlab_autoaim?style=flat-square&label=language" alt="Top language" />
+        <img src="https://img.shields.io/github/stars/hdmkindom/aimlab_autoaim?style=flat-square&label=stars" alt="Stars" />
+        <img src="https://img.shields.io/github/last-commit/hdmkindom/aimlab_autoaim?style=flat-square&label=updated" alt="Last commit" />
+      </p>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <a href="https://github.com/hdmkindom/mathmatic_in_elementary_number_th">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=hdmkindom&repo=mathmatic_in_elementary_number_th&hide_border=true&theme=transparent" alt="Elementary Number Theory in Lean" />
-  </a>
-  <a href="https://github.com/hdmkindom/aimlab_autoaim">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=hdmkindom&repo=aimlab_autoaim&hide_border=true&theme=transparent" alt="aimlab_autoaim" />
-  </a>
-</p>
+## 🧪 Notes & Smaller Experiments
 
-<details>
-  <summary><b>项目说明 / Project Notes</b></summary>
-  <br />
-
-- **[tracker_plus](https://github.com/hdmkindom/tracker_plus)**：RoboMaster 自瞄视觉系统，涉及目标检测、PnP、EKF、弹道补偿、延迟测量与 ROS2 工程集成。
-- **[ATP](https://github.com/hdmkindom/ATP)**：面向 `ax-prover` 的自动定理证明实验框架，支持多模式批量运行、环境检查、结果归档和 Markdown 报告。
-- **[Elementary Number Theory in Lean](https://github.com/hdmkindom/mathmatic_in_elementary_number_th)**：使用 Lean 4 与 Mathlib 进行初等数论形式化。
-- **[aimlab_autoaim](https://github.com/hdmkindom/aimlab_autoaim)**：基于 OpenCV 的实时视觉靶标检测与目标选择实验。
-
-</details>
-
-## 📊 GitHub Dashboard
-
-<p align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=hdmkindom&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent" alt="GitHub statistics" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hdmkindom&layout=compact&langs_count=8&hide_border=true&theme=transparent" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=hdmkindom&theme=github-compact&hide_border=true&area=true" alt="GitHub activity graph" />
+<p>
+  <a href="https://github.com/hdmkindom/lean_IMO_2010_Q2"><img src="https://img.shields.io/badge/Lean%204-IMO%202010%20Q2-6B4FBB?style=flat-square" alt="IMO 2010 Q2 in Lean" /></a>
+  <a href="https://github.com/hdmkindom/lean_IMO_EX15"><img src="https://img.shields.io/badge/Lean%204-IMO%20Exercise%2015-6B4FBB?style=flat-square" alt="IMO Exercise 15 in Lean" /></a>
+  <a href="https://github.com/hdmkindom/Eulerian_Cycle"><img src="https://img.shields.io/badge/Algorithm-Eulerian%20Cycle-0969da?style=flat-square" alt="Eulerian Cycle" /></a>
+  <a href="https://github.com/hdmkindom/math"><img src="https://img.shields.io/badge/Notes-Mathematics%20%26%20LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="Mathematics notes" /></a>
 </p>
 
 ## 🔭 Things I'm Exploring
